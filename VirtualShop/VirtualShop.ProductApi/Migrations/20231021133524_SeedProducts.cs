@@ -4,6 +4,9 @@
 
 namespace VirtualShop.ProductApi.Migrations
 {
+    /// <summary>
+    /// Migration que populou a tabela de Produtos a partir de comandos MySQL
+    /// </summary>
     public partial class SeedProducts : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)

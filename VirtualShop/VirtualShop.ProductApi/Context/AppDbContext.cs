@@ -3,6 +3,10 @@ using VirtualShop.ProductApi.Models;
 
 namespace VirtualShop.ProductApi.Context;
 
+/// <summary>
+/// Classe responsável por relacionar os DbSet (tabelas) com as Models
+/// Define ainda os padrões para criação das tabelas através das Migrations, como limitando atributos dos campos, relacionamentos, dados iniciais, etc...
+/// </summary>
 public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }

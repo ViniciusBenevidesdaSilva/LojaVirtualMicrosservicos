@@ -5,6 +5,9 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace VirtualShop.ProductApi.Migrations
 {
+    /// <summary>
+    /// Migration Inicial, responsável por criar o banco e popular a tabela de categorias
+    /// </summary>
     public partial class Inicial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)

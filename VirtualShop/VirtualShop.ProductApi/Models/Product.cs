@@ -1,5 +1,10 @@
 ﻿namespace VirtualShop.ProductApi.Models;
 
+/// <summary>
+/// Model do Produto que espelha a tabela do banco
+/// Usada pela migration para criação da tabela
+/// Responsável por comunicar Service <-> Repository
+/// </summary>
 public class Product
 {
     public int Id { get; set; }
