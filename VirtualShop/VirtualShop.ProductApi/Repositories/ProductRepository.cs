@@ -4,6 +4,9 @@ using VirtualShop.ProductApi.Models;
 
 namespace VirtualShop.ProductApi.Repositories;
 
+/// <summary>
+/// Classe que implementa os métodos CRUD definidos pela IProductRepository utilizando o AppDbContext
+/// </summary>
 public class ProductRepository : IProductRepository
 {
     private readonly AppDbContext _context;

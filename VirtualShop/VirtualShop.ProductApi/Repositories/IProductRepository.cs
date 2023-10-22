@@ -2,6 +2,9 @@
 
 namespace VirtualShop.ProductApi.Repositories;
 
+/// <summary>
+/// Interface que indica a implementação das ações do CRUD de product
+/// </summary>
 public interface IProductRepository
 {
     Task<IEnumerable<Product>> GetAll();
