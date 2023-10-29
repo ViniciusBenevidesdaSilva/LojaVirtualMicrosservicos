@@ -1,0 +1,90 @@
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.staticwebassets.runtime.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.exe
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.deps.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.runtimeconfig.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.pdb
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.VirtualShop.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\scopedcss\bundle\VirtualShop.Web.styles.css
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\VirtualShop.Web.bundle.scp.css
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\refint\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.pdb
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.genruntimeconfig.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop\VirtualShop.Web\obj\Debug\net6.0\ref\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.staticwebassets.runtime.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.exe
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.deps.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.runtimeconfig.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.pdb
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.VirtualShop.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\scopedcss\bundle\VirtualShop.Web.styles.css
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\VirtualShop.Web.bundle.scp.css
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\refint\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.pdb
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.genruntimeconfig.cache
+C:\Users\HP\Documents\Git\Projetos\Nova pasta\VirtualShop.Web\obj\Debug\net6.0\ref\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.staticwebassets.runtime.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.exe
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.deps.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.runtimeconfig.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\bin\Debug\net6.0\VirtualShop.Web.pdb
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.VirtualShop.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VirtualShop.Web.props
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\scopedcss\bundle\VirtualShop.Web.styles.css
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\VirtualShop.Web.bundle.scp.css
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\refint\VirtualShop.Web.dll
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.pdb
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\VirtualShop.Web.genruntimeconfig.cache
+C:\Users\HP\Documents\Git\Projetos\Loja Virtual Microsserviços\VirtualShop.Web\obj\Debug\net6.0\ref\VirtualShop.Web.dll
