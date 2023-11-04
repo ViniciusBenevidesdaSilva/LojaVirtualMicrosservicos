@@ -6,7 +6,7 @@ namespace VirtualShop.IdentityServer.Configuration;
 public class IdentityConfiguration
 {
     public const string Admin = "Admin";
-    public const string Clint = "Client";
+    public const string Client = "Client";
 
     public static IEnumerable<IdentityResource> IdentiyResources =>
         new List<IdentityResource>
